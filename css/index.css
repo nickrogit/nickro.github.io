@@ -4,3 +4,8 @@ body{
 .center{
     text-align: center
 }
+.avatar-img{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+}
